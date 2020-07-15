@@ -1,0 +1,44 @@
+.first
+{
+	border: 2px solid #ddd;
+	margin: 2px;
+	width: 400px;
+	text-align: left;
+}
+
+img{
+	width: 350px;
+	padding: 10px;
+
+}
+.second
+{
+	border: 2px solid #ddd;
+	margin: 2px;
+	width: 300px;
+	text-align: left;
+}
+.third
+{
+	border: 2px solid #ddd;
+	margin: 2px;
+	width: 300px;
+	text-align: left;
+}
+/*.forth
+{
+	border: 2px solid #ddd;
+	margin: 2px;
+	width: 500px;
+	height: 75px;
+	text-align: left;
+}*/
+.parent,.ravii
+{
+	display: flex;
+	flex-direction: row;
+	width: 400px;
+}
+
+
+
